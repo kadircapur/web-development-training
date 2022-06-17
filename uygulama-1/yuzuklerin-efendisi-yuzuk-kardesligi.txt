@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="description" content="Paragraf" />
+    <title>Yüzüklerin Efendisi: Yüzük Kardeşliği</title>
+  </head>
+  <body>
+    Yüzüklerin Efendisi: Yüzük Kardeşliği
+    <br /><br />
+    Peter Jackson
+    <br /><br />
+    Paragraf
+  </body>
+</html>
